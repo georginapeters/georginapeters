@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hi There 👋
+
+I'm Georgina - Animator & Programmer with a keen fascination for tech. 
+
+## Working 💻
+I'm currently working on completing my bootcamp in Software Engineering. 
+
+## Learning 💡
+I'm learning how to use Python as a coding language to create efficient, exciting projects and applications. 
+
+### How to Reach Me 🤝
+www.linkedin.com/in/georgina-peters-animator 
+
+georgina.p@outlook.com
 
 <!--
 **georginapeters/georginapeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
