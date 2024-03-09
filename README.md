@@ -3,7 +3,7 @@
 I'm Georgina - an Animator & Programmer with a keen fascination for tech. 
 
 ## Working 💻
-I'm currently working on completing my bootcamp in Software Engineering. 
+I'm currently working on completing my bootcamp in Software Engineering at Hyperiondev. 
 
 ## Learning 💡
 I'm learning how to use Python as a coding language to create efficient, exciting projects and applications. 
