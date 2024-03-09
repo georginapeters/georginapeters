@@ -13,6 +13,9 @@ www.linkedin.com/in/georgina-peters-animator
 
 georgina.p@outlook.com
 
+![image](https://github.com/georginapeters/georginapeters/assets/157253067/b689fa08-eea4-4b39-83a0-74351dda778a)
+
+
 <!--
 **georginapeters/georginapeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
