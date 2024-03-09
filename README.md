@@ -1,6 +1,6 @@
 # Hi There 👋
 
-I'm Georgina - Animator & Programmer with a keen fascination for tech. 
+I'm Georgina - an Animator & Programmer with a keen fascination for tech. 
 
 ## Working 💻
 I'm currently working on completing my bootcamp in Software Engineering. 
